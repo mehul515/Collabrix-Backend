@@ -79,6 +79,9 @@ src/
  └── pom.xml...
 ```
 
+## 🔗 Related Projects
+
+* 🧠 [Collabrix Frontend (Next JS)](https://github.com/mehul515/Collabrix-Frontend)
 
 
 ---
